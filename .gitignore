@@ -158,7 +158,7 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-
+.gitignore
 
 k8s-images
 ignore_kubeconfig-k8s-ajnouri.yaml
